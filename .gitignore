@@ -1,0 +1,14 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto-Zwischendateien
+*_files/
+*.log
+*.tex
+.quarto/
+
+# Grosse Rohdaten (92 MB, Quelle: Moodle bzw. dol.gov)
+data/NDCP2022.xlsx

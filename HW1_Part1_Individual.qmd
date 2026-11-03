@@ -1,0 +1,91 @@
+---
+title: "EMPR – Homework I, Part 1 (Individual: Tasks 1–4)"
+author: "Jonas Bader"
+date: today
+format: pdf
+---
+
+```{r}
+#| label: setup
+#| message: false
+
+library(tidyverse)
+library(nycflights23)
+library(ggridges)
+library(kableExtra)
+```
+
+## Task 1
+
+Slides used:
+
+```{r}
+#| label: task1
+
+```
+
+## Task 2
+
+Slides used:
+
+```{r}
+#| label: task2
+
+```
+
+## Task 3
+
+Slides used:
+
+### a)
+
+```{r}
+#| label: task3a
+
+```
+
+### b)
+
+```{r}
+#| label: task3b
+
+```
+
+### c)
+
+```{r}
+#| label: task3c
+
+```
+
+## Task 4
+
+Slides used:
+
+### a)
+
+```{r}
+#| label: task4a
+
+```
+
+### b)
+
+```{r}
+#| label: task4b
+
+```
+
+### c)
+
+```{r}
+#| label: task4c
+
+```
+
+### d)
+
+```{r}
+#| label: task4d
+
+```

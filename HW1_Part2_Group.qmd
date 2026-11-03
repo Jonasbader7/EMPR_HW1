@@ -1,0 +1,38 @@
+---
+title: "EMPR – Homework I, Part 2 (Group: Tasks 5–6)"
+author: "Jonas Bader, …"
+date: today
+format: pdf
+---
+
+```{r}
+#| label: setup
+#| message: false
+
+library(tidyverse)
+library(readxl)
+library(janitor)
+```
+
+## Task 5
+
+Slides used:
+
+```{r}
+#| label: task5
+
+```
+
+## Task 6
+
+Slides used:
+
+```{r}
+#| label: task6
+
+```
+
+{{< pagebreak >}}
+
+## Collaboration and workload
+
