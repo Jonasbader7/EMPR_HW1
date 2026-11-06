@@ -1,0 +1,2 @@
+# Count the R-based Quarto homework documents in GitHub language statistics.
+*.qmd linguist-language=R linguist-detectable=true
